@@ -1,4 +1,4 @@
-package LinkedList;
+package LL.LinkedList;
 public class LinkedList {
 	Node head;
     public class Node {
