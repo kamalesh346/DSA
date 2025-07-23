@@ -1,7 +1,5 @@
 package Queue.Queuelist;
 
-import Queue.Queuelist.Queuelist;
-
 public class Main {
     public static void main(String args[]){
         Queuelist q = new Queuelist();
